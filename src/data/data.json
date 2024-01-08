@@ -63,22 +63,22 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon":  "fa fa-car",
       "name": "Individual Vehicle Registration",
       "text": "Whether you've just purchased a new car or need to renew your registration, we've got you covered."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-truck",
       "name": "Fleet Registration",
       "text": "Businesses with multiple vehicles can rely on us for efficient fleet registration services, tailored to meet your company's specific needs."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-plane",
       "name": "Out-of-State Transfers",
       "text": "If you're moving to Florida, we'll help you smoothly transfer your vehicle registration to the Sunshine State."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-check-circle",
       "name": "Mobile VIN Verifications",
       "text": "Skip the hassle of driving to the DMV.  We will come to you in the comfort of your home for your VIN Verfication needs."
     }

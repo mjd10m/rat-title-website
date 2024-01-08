@@ -39,7 +39,7 @@ export const Contact = (props) => {
     <div>
       <div id="contact">
         <div className="container">
-          <div className="col-md-8">
+          <div className="col-md-5">
             <div className="row">
               <div className="section-title">
                 <h2>Get In Touch</h2>
@@ -98,7 +98,7 @@ export const Contact = (props) => {
               </form>
             </div>
           </div>
-          <div className="col-md-3 col-md-offset-1 contact-info">
+          <div className="col-md-4 col-md-offset-1 contact-info">
             <div className="contact-item">
               <h3>Contact Info</h3>
               <p>
@@ -124,6 +124,7 @@ export const Contact = (props) => {
                 {props.data ? props.data.email : "loading"}
               </p>
             </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526.877241562879!2d-82.33046962385787!3d27.875041076086863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2d191ca0e9ab3%3A0xb7479371706814c1!2sRiverview%20Auto%20Tag%20%26%20Title!5e0!3m2!1sen!2sus!4v1704755229068!5m2!1sen!2sus" width="400" height="400" style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
           <div className="col-md-12">
             <div className="row">
