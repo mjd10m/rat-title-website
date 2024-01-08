@@ -1,21 +1,17 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Title Transfers, Registration Renewals, Out of state Vehicle Registration, VIN Verification.",
+    "paragraph": "Call us at (813)-374-4448"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Welcome to Riverview Auto Tag & Title Service, your trusted partner in hassle-free vehicle registration services in the beautiful state of Florida.  At Riverview Auto Tag & Title Service, we understand that navigating the vehicle registration process can be a complex and time-consuming task. That's why we're here to simplify the experience for you. With years of expertise in the industry, we have become a reliable resource for individuals and businesses seeking efficient and reliable vehicle registration solutions.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expertise: Our team consists of knowledgeable professionals who are well-versed in the intricacies of vehicle registration in Florida. We stay updated on the latest regulations to ensure accurate and timely services.",
+      "Customer Focus: Your satisfaction is our priority. We take the time to understand your unique needs and provide personalized assistance throughout the registration process."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Efficiency: Time is valuable, and we respect that. Our streamlined processes are designed to save you time and effort, so you can get back on the road sooner.",
+      "Transparency: No hidden fees or surprises. We believe in transparent and straightforward communication, ensuring you have a clear understanding of the registration process from start to finish."
     ]
   },
   "Gallery": [
@@ -68,94 +64,79 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Individual Vehicle Registration",
+      "text": "Whether you've just purchased a new car or need to renew your registration, we've got you covered."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Fleet Registration",
+      "text": "Businesses with multiple vehicles can rely on us for efficient fleet registration services, tailored to meet your company's specific needs."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Out-of-State Transfers",
+      "text": "If you're moving to Florida, we'll help you smoothly transfer your vehicle registration to the Sunshine State."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cloud-download",
+      "name": "Mobile VIN Verifications",
+      "text": "Skip the hassle of driving to the DMV.  We will come to you in the comfort of your home for your VIN Verfication needs."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "I read the prior reviews and was so impressed with the way Jordan responded to each and every one of them, that I decided to check it out. I have spent a total of about 4 minutes to get everything done and was greeted with friendliness and efficiency, and The representative who took care of me even gave me a suggestion on saving money on my transaction. I will definitely be back here again.",
+      "name": "Lisa Wheeler"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "First of all just want to say that this is the first time I ever called a DMV and someone answered in the first ring. I was definitely expecting to go through a prompts and waiting period. I spoke to a lady name Jordan, mannnnn 🔥🔥🔥I'm telling you she went above and beyond to help me. I would highly recommend anyone best customer experience I've had yet down in Florida state. Just so genuine, proficient and gratitude. Just so grateful to have spoken with her to guide me in the right direction. I'm very so grateful   🙌🏾.",
+      "name": "Theresa Jeffers"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "This place is awesome especially Jordan!!! She helped me with my mess and was happy to help me with it with a smile!! Thanks for having great customer service Jordan!!!! I would definitely recommend this place. Way better than going to the regular DMV when it comes to tag and title!!!!!!!!!",
+      "name": "Keon Pinkney"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Ive had a pretty hard time trying to find time to get a transfer I called and destiny helped me tremendously throughout both calls helped me with everything I need I would highly recommend riverview tag and title to everyone around.",
+      "name": "Trevor Thompson"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Very helpful and nice I had an amazing experience I was in and out 10 minutes !",
+      "name": "Makeupbby Sierra"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Arrived at 7:09AM and finished at 7:20AM! Went to transfer the title of an out of state vehicle and get tags and the woman at the front was super quick and friendly.  This sure beats sitting at the Tax Collector's office for hours.  Highly recommend this business. Support your local business owner!  Note that they are located a little lower in the plaza, do not get confused with the Riverview title agency which is a real estate related business at the front.  Will recommend Riverview Auto Tag to all my friends and family!",
+      "name": "Khemraj B"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Mason Wasdon",
+      "job": "Head RAT"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Mike D",
+      "job": "Shitty RAT"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Jordan Wasdon",
+      "job": "Manager RAT"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "address": "7423 US HWY 301 S, Riverview, FL 33578 ",
+    "phone": "813 374 4448",
+    "email": "RATTitle@gmail.com",
+    "facebook": "https://www.facebook.com/RATTitle",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },

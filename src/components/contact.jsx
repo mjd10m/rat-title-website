@@ -44,7 +44,7 @@ export const Contact = (props) => {
               <div className="section-title">
                 <h2>Get In Touch</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
+                  Please fill out the form below to send us an email with your tag/title questions and we will
                   get back to you as soon as possible.
                 </p>
               </div>
@@ -153,10 +153,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
+            &copy; Riverview Auto Tag and Title. Design by Michael Dougherty
           </p>
         </div>
       </div>
