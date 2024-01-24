@@ -8,7 +8,7 @@ export const Testimonials = (props) => {
           <h2>What our customers say</h2>
         </div>
         <div className="row">
-          {/*{props.data
+          {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-4">
                   <div className="testimonial">
@@ -23,8 +23,8 @@ export const Testimonials = (props) => {
                   </div>
                 </div>
               ))
-            : "loading"}*/}
-            <div class="elfsight-app-c79fff54-f47e-4dac-ba92-2ed4a8d4806f" data-elfsight-app-lazy></div>
+            : "loading"}
+            {/*<div class="elfsight-app-c79fff54-f47e-4dac-ba92-2ed4a8d4806f" data-elfsight-app-lazy></div>*/}
         </div>
       </div>
     </div>
